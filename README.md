@@ -111,8 +111,6 @@ The project requires:
 GROQ_API_KEY
 ```
 
-Never commit your actual `.env` file to GitHub.
-
 ## 🧠 How RAG Works
 
 The application follows a Retrieval-Augmented Generation pipeline:
